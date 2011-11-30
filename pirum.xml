@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <server>
-  <name>pear.thumbwhere,com</name>
+  <name>pear.thumbwhere.com</name>
   <summary>ThumbWhere PEAR channel</summary>
   <alias>thumbwhere</alias>
   <url>http://pear.thumbwhere.com/</url>
