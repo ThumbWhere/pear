@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<server>
+  <name>pear.pirum-project.org</name>
+  <summary>ThumbWhere PEAR channel</summary>
+  <alias>thumbwhere</alias>
+  <url>http://pear.thumbwhere.com/</url>
+</server>

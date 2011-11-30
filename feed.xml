@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>http://pear.thumbwhere.com</id>
+    <updated>2011-11-30T22:03:16+11:00</updated>
+    <title>ThumbWhere PEAR channel Latest Releases</title>
+    <link href="http://pear.thumbwhere.com/feed.xml" rel="self" />
+    <author>
+        <name>http://pear.thumbwhere.com</name>
+    </author>
+
+
+</feed>
